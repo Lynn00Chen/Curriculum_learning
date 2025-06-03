@@ -82,6 +82,7 @@ The repository also includes several analysis scripts:
 | `plotKLD.py` | Plotting KLD and OA (Overall Accuracy) figures |
 | `computed_difficulty.py` | Computing loss on all sequences and sorting them by difficulty |
 | `scatter.py` | Plotting loss distribution and scatter plots for different models |
+| `midi_analyzer.py` | Analyse generated music metrics |
 
 ## Acknowledgements
 
