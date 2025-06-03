@@ -56,7 +56,7 @@ Curriculum learning trains models by gradually increasing the difficulty of trai
 | Script | Training Type | Epochs | Curriculum Threshold | Description |
 |--------|---------------|--------|---------------------|-------------|
 | `train_batch.py` | **Baseline** | 100 | N/A | Standard training without curriculum learning |
-| `train.py` | **Standard** | 200 | N/A | Extended training for pretrained models |
+| `train.py` | **Standard** | 300 | N/A | Extended training for pretrained models |
 | `traincl_finale_20.py` | **Curriculum Learning** | - | 60% | CL with 60% curriculum threshold |
 | `traincl_finale_80.py` | **Curriculum Learning** | - | 80% | CL with 80% curriculum threshold |
 | `traincl_learning.py` | **Curriculum + LR** | - | 60% | CL with 60% threshold + learning rate scheduling |
