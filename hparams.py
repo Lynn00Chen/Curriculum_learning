@@ -9,6 +9,10 @@ or (at your option) any later version. music-transformer is distributed in the h
 but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 See the GNU General Public License for more details. A copy of this license can be found within the GitHub repository
 for music-transformer, or at https://www.gnu.org/licenses/gpl-3.0.html.
+
+Modifications made by Gritta Joshy and Qi Chen as part of Master's thesis project:
+"Investigation of Curriculum Learning in Deep Generative Modelling Using Western Classical Music"
+June 2025
 """
 
 from torch import torch, device as d
